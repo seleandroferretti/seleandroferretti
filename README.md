@@ -1,6 +1,7 @@
-### Hi There! 👋👋👋
+## Hi There! 👋👋👋
 
-- 🧑 I’m Leandro Ferretti
-- 👀 I’m interested in web application development
-- 🌱 I’m currently learning GraphQL
-- 💞️ I’m looking to collaborate on React projects
+- 🧑 I’m Leandro Ferretti.
+- 💡 I like to explore new technologies and develop software.
+- 👀 I’m interested in web application development.
+- 💞️ I'm looking to collaborate on web application projects.
+- 🌱 I’m currently learning GraphQL and React Native.
